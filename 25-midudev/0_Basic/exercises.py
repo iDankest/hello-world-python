@@ -28,7 +28,7 @@ print("Convierte el float 3.99 a un entero. ¿Qué ocurre?")
 
 ### Completa aquí
 
-print("--------------")
+print(int("12345"),float("12345"))
 
 print("\nEjercicio 4: Variables")
 print("Crea variables para tu nombre, edad y altura.")
