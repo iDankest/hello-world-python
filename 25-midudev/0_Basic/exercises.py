@@ -8,7 +8,7 @@ print("Escribe un programa que imprima tu nombre y tu ciudad en líneas separada
 
 ### Completa aquí
 
-print("--------------")
+print("Kilian \nLas palmas")
 
 print("\nEjercicio 2: Muestra los tipos de datos de las siguientes variables:")
 print("Usa el comando 'type()' para determinar el tipo de datos de cada variable.")
@@ -20,7 +20,7 @@ e = None
 
 ### Completa aquí
 
-print("--------------")
+print(type(a), type(b), type(c), type(d), type(e))
 
 print("\nEjercicio 3: Casting de tipos")
 print("Convierte la cadena \"12345\" a un entero y luego a un float.")
