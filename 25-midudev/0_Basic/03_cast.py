@@ -16,3 +16,6 @@ print("covercion de tipos de datos")
 print(2 + int("2")) # convierte el string a entero
 print("100" + str(2))
 print(bool(3))
+
+print(int("hola mundillo")) # ValueError: invalid literal for int() with base 10: 'hola mundillo'
+
