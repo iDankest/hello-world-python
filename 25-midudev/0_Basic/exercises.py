@@ -49,4 +49,8 @@ print("3. Haz la división entera entre el número que te salió y el número 2"
 print("4. El resultado debería ser 1")
 
 ### Completa aquí
-print(round(3.14159/2-1))
+pi = 3.14159
+pi_redondeado = round(pi)
+resultado = pi_redondeado // 2
+print(resultado)
+
